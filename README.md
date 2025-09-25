@@ -32,7 +32,7 @@ https://github.com/RiteHist/ter-homework-1/blob/main/main.tf
 
 Результат `docker ps`:
 
-![alt text](https://github.com/RiteHist/ter-homework-1/blob/main/media/4.PNG?raw=true)
+![alt text](https://github.com/RiteHist/ter-homework-1/blob/main/media/3.PNG?raw=true)
 
 ### Ответ на пункт 6:
 
@@ -40,4 +40,4 @@ https://github.com/RiteHist/ter-homework-1/blob/main/main.tf
 
 Результат `docker ps`:
 
-![alt text](https://github.com/RiteHist/ter-homework-1/blob/main/media/5.PNG?raw=true)
+![alt text](https://github.com/RiteHist/ter-homework-1/blob/main/media/4.PNG?raw=true)
