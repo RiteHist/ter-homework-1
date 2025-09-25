@@ -26,9 +26,7 @@
 
 ### Ответ на пункт 5:
 
-Исправленный код:
-
-https://github.com/RiteHist/ter-homework-1/blob/main/main.tf
+[Исправленный код](https://github.com/RiteHist/ter-homework-1/blob/main/main.tf)
 
 Результат `docker ps`:
 
@@ -44,13 +42,12 @@ https://github.com/RiteHist/ter-homework-1/blob/main/main.tf
 
 ### Ответ на пункт 7:
 
-Файл terraform.tfstate после `terraform destroy`:
+Файл [terraform.tfstate](https://github.com/RiteHist/ter-homework-1/blob/main/terraform.tfstate) после `terraform destroy`:
 
-https://github.com/RiteHist/ter-homework-1/blob/main/terraform.tfstate
 
 ### Ответ на пункт 8:
 
-Это связано с заданным параметром `keep_locally = true` в блоке `resource "docker_image" "nginx"`, который при значении `true` не удаляет образ из локального хранилищя при операции `terraform destroy`.
+Это связано с заданным параметром `keep_locally = true` в блоке `resource "docker_image" "nginx"`, который при значении `true` не удаляет образ из локального хранилища при операции `terraform destroy`.
 
 Скриншот из документации провайдера docker, где предоставлена данная информация:
 
