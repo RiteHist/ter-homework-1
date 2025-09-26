@@ -60,3 +60,9 @@
 Проверка, что все переменные окружения были переданы в контейнер:
 
 ![alt text](https://github.com/RiteHist/ter-homework-1/blob/main/media/6.PNG?raw=true)
+
+## Задание 3
+
+Запуск проекта из задания 1 через OpenTofu:
+
+![alt text](https://github.com/RiteHist/ter-homework-1/blob/main/media/7.PNG?raw=true)
